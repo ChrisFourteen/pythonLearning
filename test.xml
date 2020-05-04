@@ -1,0 +1,18 @@
+
+<data>
+    <people>
+        <name>ChrisChan</name>
+        <age>18</age>
+        <gender>male</gender>
+    </people>
+    <people>
+        <name>tsts</name>
+        <age>18</age>
+        <gender>female</gender>
+    </people>
+    <people>
+        <name>zj</name>
+        <age>20</age>
+        <gender>female</gender>
+    </people>
+</data>
