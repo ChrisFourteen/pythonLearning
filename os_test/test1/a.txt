@@ -1,0 +1,2 @@
+{"name": "cyx", "age": 18, "gender": "male"}
+"hello"
